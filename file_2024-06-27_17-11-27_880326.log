@@ -1,0 +1,4 @@
+2024-06-27T17:11:27.895964-0300 INFO A função extrair_dados levou 0.0156 segundos.
+2024-06-27T17:11:27.895964-0300 INFO A função calcular_kpi_de_total_de_vendas levou 0.0000 segundos.
+2024-06-27T17:11:27.895964-0300 INFO A função salvar_arquivo_novo_de_dados levou 0.0000 segundos.
+2024-06-27T17:11:27.895964-0300 INFO A função pipeline_calcular_kpi_de_vendas_consolidado levou 0.0156 segundos.
